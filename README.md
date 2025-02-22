@@ -1,3 +1,5 @@
+Trading_with_Agents(in progress)
+
 A Deep Q-Learning based trading agent that autonomously makes trading decisions in the stock market using Agentic AI principles.
 
 ## 📝 Table of Contents
