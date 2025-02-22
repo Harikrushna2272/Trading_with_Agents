@@ -57,3 +57,4 @@ Commit your changes (git commit -m 'Add some AmazingFeature')
 Push to the branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 # agentic-ai-trading
+# Trading_with_Agents
