@@ -25,17 +25,17 @@ This project implements an AI trading agent using Deep Q-Learning, a type of rei
 - Configurable hyperparameters for training
 - Automated trading decision making
 
-## 📁 Project Structure
-├── data/               # Data storage
-├── src/               # Source code
+agentic-ai-trading/
+│
+├── data/
+│   └── HDFC.csv
+├── src/
 │   ├── __init__.py
-│   ├── environment.py # Trading environment
-│   ├── agent.py      # DQN agent implementation
-│   ├── models.py     # Neural network architecture
-│   └── utils.py      # Utility functions
-├── requirements.txt   # Project dependencies
-├── main.py           # Main execution file
-└── README.md         # Project documentation
+│   ├── environment.py
+│   ├── models.py
+│   └── utils.py
+├── main.py
+└── README.md
 
 ## 📋 Requirements
 - Python 3.8+
